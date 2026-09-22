@@ -1,4 +1,4 @@
-##💫 About Me:
+## 💫 About Me:
 
 <br><br>- 🎓 MS Software Engineering student at the University of Texas at Dallas | Expected graduation: May 2027  <br><br>- 💻 Focused on AI/ML, computer vision, data analysis, and full-stack application development  <br><br>- 🤖 Former Machine Learning / Data Science Intern at InPress and Data Analytics Intern at SAS  <br><br>- 👨‍🏫 CS Teaching Assistant / Grader at UT Dallas; taught Java and Python through CS Outreach in Summer 2026  <br><br>- 🌱 Building projects with PyTorch, SAM, ViT, LightGBM, React, Next.js, and Streamlit  <br><br>- 🚀 Available for co-ops December 2026–May 2027 and full-time roles after May 2027 graduation
 
@@ -6,11 +6,11 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gagandeepsingh24) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ip.gagan2@gmail.com) 
 
-##🚀 Featured Projects:
+## 🚀 Featured Projects:
 
 <br><br>- 👕 SmartWardrobe — AI Wardrobe Assistant: Integrated SAM for zero-shot garment segmentation, standardized garment crops, and fine-tuned ViT-B/16 on DeepFashion. Built a Streamlit interface for uploads, a wardrobe gallery, outfit suggestions, and search using mock API responses.  <br><br>- 📈 Northstar — Portfolio Analytics and Optimization: Built TypeScript, React, and Next.js interfaces for holdings, asset allocation, goals, and simulated market scenarios. Contributed to Sharpe-ratio optimization, historical backtesting, and 500-path Monte Carlo projections.  <br><br>- 🎨 Artist GAN: Built a text-conditioned face-generation model with text encoding and conditioning augmentation; compared semantic alignment against a DCGAN baseline.  <br><br>- 🌿 Plant Disease Detection Using CNN: Developed a plant-disease classifier with 90% reported accuracy, an image-upload interface, and a disease-prediction dashboard.  <br><br>- 🔎 Keyword-in-Context Search Engine: Built a modular C++ engine that processes 1,000+ text lines and generates cyclic keyword shifts for lookup.
 
-##💼 Experience:
+## 💼 Experience:
 
 <br><br>- 📰 InPress | Machine Learning / Data Science Intern | May–August 2025: Combined local LLM outputs with LightGBM to classify 10,000+ news articles geographically and automated Python/Pandas validation against ground truth.  <br><br>- 📊 SAS Institute | Data Analytics Intern | June–August 2023: Developed crop-damage prediction using data from 500+ farmers and silicosis prediction using X-rays from 700 patients, with reported accuracies of 90% and 85%, respectively.  <br><br>- 🧬 UT Dallas | Spatial Transcriptomics Research | December 2024–May 2025: Supported analysis of 12 samples using R, Seurat, Harmony, and scProportionTest; annotated 13 cell types and generated gene-expression visualizations.  <br><br>- 👨‍🏫 UT Dallas | CS Teaching Assistant / Grader | 2025–2026: Created rubrics, graded coursework for 90 students per course each semester, and held office hours for UNIX Systems Programming and Data Structures.  <br><br>- 🐍 UT Dallas CS Outreach | Java and Python Instructor | June–August 2026: Taught eight online camps for grades 8–12, reaching approximately 120 camp enrollments, and created slides and hands-on assignments.
 
